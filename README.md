@@ -1,2 +1,2 @@
 # pomodoro_app
-import tkinter library
+import Tkinter library
